@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2", "Assignment2\Assignment2.csproj", "{386C569F-F77E-46FE-B314-E0CDC1D22351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{EFBACBA4-7F45-4FBC-B156-EEEE26DDBCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solsystemet", "Solsystemet\Solsystemet.csproj", "{B5228DB0-7A5F-4775-B4AA-10B922C13F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386C569F-F77E-46FE-B314-E0CDC1D22351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386C569F-F77E-46FE-B314-E0CDC1D22351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386C569F-F77E-46FE-B314-E0CDC1D22351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386C569F-F77E-46FE-B314-E0CDC1D22351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBACBA4-7F45-4FBC-B156-EEEE26DDBCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBACBA4-7F45-4FBC-B156-EEEE26DDBCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBACBA4-7F45-4FBC-B156-EEEE26DDBCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBACBA4-7F45-4FBC-B156-EEEE26DDBCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5228DB0-7A5F-4775-B4AA-10B922C13F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5228DB0-7A5F-4775-B4AA-10B922C13F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5228DB0-7A5F-4775-B4AA-10B922C13F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5228DB0-7A5F-4775-B4AA-10B922C13F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADE3564F-A1B1-4A41-AE00-8B47C7FF70F2}
+	EndGlobalSection
+EndGlobal

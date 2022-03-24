@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Solsystemet/1.0.0": {
+        "dependencies": {
+          "Assignment2": "1.0.0"
+        },
+        "runtime": {
+          "Solsystemet.dll": {}
+        }
+      },
+      "Assignment2/1.0.0": {
+        "runtime": {
+          "Assignment2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solsystemet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assignment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
